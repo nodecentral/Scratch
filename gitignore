@@ -1,1 +1,8 @@
+# Scratch repo: ignore everything by default so nothing is committed by accident.
+*
+
+# Except the files that explain the repo itself.
+!.gitignore
+!README.md
+!CLAUDE.md
 
